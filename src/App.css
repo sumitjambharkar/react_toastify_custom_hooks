@@ -1,0 +1,8 @@
+.custom_hook_notify {
+  display: flex;
+  gap: 48px;
+}
+
+.custom_hook_notify button {
+  padding: 8px;
+}
